@@ -17,15 +17,25 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Accueil<span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">A propos</a>
       <a class="nav-item nav-link" href="#">Contact</a>
+      <a class="nav-item nav-link" href="#">A propos</a>
     </div>
   </div>
 </nav>
 
-<section style="min-height: 90vh;">
-    <h1 class="text-center">PROJET GROUPE SUR GIT</h1>
-
+<section style="min-height: 40vh;">
+    <h1 class="text-center">GROUPE GIT SUR PROJET</h1>
+    <div class="col-md-4">
+      <div class="row mx-0">
+          <h2>Titre 2</h2>
+      </div>
+      <div class="row mx-0 mt-4">
+          <p class="text-right">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
+      </div>
+      <div class="row mx-0 d-flex justify-content-between my-2">
+          <span>FOOTER</span><a href="#" class="mr-4 pr-4">Lien 2</a>
+      </div>
+    </div>
 
 
 </section>
